@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Agent Orchestrator",
+  "description": "A multi-agent AI tutoring system visualizing the interaction between Meta-Orchestrator, Content Delivery, Assessment, and Feedback agents using Gemini 2.5.",
+  "requestFramePermissions": []
+}
